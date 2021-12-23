@@ -1,6 +1,9 @@
 body {
     background-color: #EAF6F6;
 }
+table {
+    display: none ;
+}
 hr {
     border-color: grey;
     border-style: none;
